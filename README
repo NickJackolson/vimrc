@@ -1,0 +1,10 @@
+## My Own VIMRC
+
+Copy to `~/.vim/vimrc` to start using. Or copy and paste relevant parts
+
+### Easy install
+
+```bash
+mkdir ~/.vim
+cp vimrc ~/.vim/vimrc
+```
